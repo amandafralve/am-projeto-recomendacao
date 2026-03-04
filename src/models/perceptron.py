@@ -1,3 +1,4 @@
+
 class Perceptron:
     def __init__(self, weights=None, bias=0.1):
         default_weights = {'energy': 0.8, 'loudness': 0.2}
