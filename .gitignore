@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ambientes virtuais
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dados
+*.csv
+*.json
+
+# Cache
+.ipynb_checkpoints/
